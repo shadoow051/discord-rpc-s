@@ -1,0 +1,51 @@
+{
+  "name": "discord-rpc-s",
+  "description": "A library for integrating Rich Presence in Node.js applications. It provides a modern architecture, high stability, a simple interface, and additional features that allow you to fully utilize Discord's capabilities.",
+  "version": "1.0.0",
+  "author": "Shadow",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "./src/cjs/index.js",
+  "module": "./src/esm/index.js",
+  "exports": {
+    "import": "./src/esm/index.js",
+    "require": "./src/cjs/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadoow051/discord-rpc-s.git"
+  },
+  "funding": [
+    {
+      "type": "tipply",
+      "url": "https://tipply.pl/@shadow64gg"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/shadoow051/discord-rpc-s/issues"
+  },
+  "homepage": "https://github.com/shadoow051/discord-rpc-s#readme",
+  "keywords": [
+    "shadow",
+    "discord",
+    "rpc",
+    "rich-presence",
+    "discord-rpc",
+    "discord-rpc-s",
+    "cjs",
+    "esm"
+  ],
+  "engines": {
+    "node": ">=15.0.0"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "files": [
+    "src",
+    "CHANGELOG.md",
+    "DOCUMENTATION.md",
+    "LICENSE",
+    "README.md"
+  ]
+}
