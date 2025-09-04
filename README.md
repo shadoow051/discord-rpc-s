@@ -60,14 +60,14 @@ pnpm add discord-rpc-s
 bun add discord-rpc-s
 ```
 
-## 🗃️ Documentation
+## 🗃️ [Documentation](https://github.com/shadoow051/discord-rpc-s/blob/main/DOCUMENTATION.md)
 
 Full documentation is available in [DOCUMENTATION](https://github.com/shadoow051/discord-rpc-s/blob/main/DOCUMENTATION.md).
 
-## 📝 License
+## 📝 [License](https://github.com/shadoow051/discord-rpc-s/blob/main/LICENSE)
 
 This project is licensed under the MIT License — see the [LICENSE](https://github.com/shadoow051/discord-rpc-s/blob/main/LICENSE) file for details.
 
-## 🗒️ Changelog
+## 🗒️ [Changelog](https://github.com/shadoow051/discord-rpc-s/blob/main/CHANGELOG.md)
 
 See the [CHANGELOG](https://github.com/shadoow051/discord-rpc-s/blob/main/CHANGELOG.md).
