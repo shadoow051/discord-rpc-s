@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🎁 Discord RPC S 🎁
+# 🕹️ Discord RPC S 🕹️
 
 ![npm](https://img.shields.io/npm/v/discord-rpc-s)
 ![license](https://img.shields.io/npm/l/discord-rpc-s)
